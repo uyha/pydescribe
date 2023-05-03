@@ -1,0 +1,3 @@
+**/*.pyc
+pyrightconfig.json
+poetry.lock
